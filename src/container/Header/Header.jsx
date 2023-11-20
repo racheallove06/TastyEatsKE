@@ -8,7 +8,7 @@ import "./Header.css";
 const Header = () => (
   <div className="app__header app__wrapper section__padding" id="home">
     <div className="app__wrapper_info">
-      <SubHeading title="Chase the new flavour" />
+      <SubHeading title="Urahisi wa Chakula, Utamu wa Kipekee" />
       <h1 className="app__header-h1">Taste the Difference at TastyEats</h1>
       <p className="p__opensans" style={{ margin: "2rem 0" }}>
         Savor the unique flavors at TastyEats and experience the difference in

@@ -59,23 +59,25 @@ const cocktails = [
 const awards = [
   {
     imgUrl: images.award02,
-    title: "Bib Gourmond",
-    subtitle: "Lorem ipsum dolor sit amet, consectetur.",
+    title: "Mshindi wa Jiko",
+    subtitle:
+      "Recognizing exceptional culinary skills with an unmatched taste.",
   },
   {
     imgUrl: images.award01,
     title: "Rising Star",
-    subtitle: "Lorem ipsum dolor sit amet, consectetur.",
+    subtitle: "Kuongezeka kwa umaarufu na ufanisi kwa kasi katika tasnia.",
   },
   {
     imgUrl: images.award05,
-    title: "AA Hospitality",
-    subtitle: "Lorem ipsum dolor sit amet, consectetur.",
+    title: "AA Ukospitali",
+    subtitle: "An emblem of top-notch service and hospitality excellence.",
   },
   {
     imgUrl: images.award03,
     title: "Outstanding Chef",
-    subtitle: "Lorem ipsum dolor sit amet, consectetur.",
+    subtitle:
+      "High proficiency in the art of cooking with cutting-edge creativity.",
   },
 ];
 
