@@ -1,7 +1,5 @@
-import React from "react";
+import images from "./images";
+import meal from "../assets/meal.mp4";
+import data from "./data";
 
-const index = () => {
-  return <div>index</div>;
-};
-
-export default index;
+export { images, meal, data };

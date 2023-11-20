@@ -6,6 +6,7 @@ import { Navbar } from "./components";
 import AboutUs from "./container/AboutUs/About";
 import SpecialMenu from "./container/Menu/SpecialMenu";
 import Chef from "./container/Chef/Chef";
+import Intro from "./container/Intro/Intro";
 import "./App.css";
 
 const App = () => (
@@ -15,6 +16,7 @@ const App = () => (
     <AboutUs />
     <SpecialMenu />
     <Chef />
+    <Intro />
   </div>
 );
 
